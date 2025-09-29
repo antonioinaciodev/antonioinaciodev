@@ -1,4 +1,4 @@
-<h2 align="left">About me</h2>
+<h1 align="left">About me</h1>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h1 align="left">I code with</h1>
 
 ###
 
@@ -23,9 +23,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/antonioinaciodev/antonioinaciodev/output/snake.svg" alt="Snake animation" />
 
 ###
