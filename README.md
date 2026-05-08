@@ -2,10 +2,10 @@
 
 ###
 
-<p align="left">• I'm Antonio Inacio, I'm currently studying Computer Science at the Federal University of Piauí.</p>
+<p align="center">• I'm Antonio Inacio, I'm currently studying Computer Science at the Federal University of Piauí.</p>
 
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
