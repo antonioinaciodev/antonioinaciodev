@@ -4,11 +4,6 @@
 
 <p align="left">• I'm Antonio Inacio, I'm currently studying Computer Science at the Federal University of Piauí.</p>
 
-###
-
-<h2 align="left">🖥️ Languages and Tools</h2>
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
