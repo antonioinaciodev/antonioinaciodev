@@ -1,9 +1,8 @@
-<h2 align="center">👋 Welcome to my github profile</h2>
+<h2 align="center">Welcome to my github profile</h2>
 
 ###
 
-<p align="center">• I'm Antonio Inacio, I'm currently studying Computer Science at the Federal University of Piauí.</p>
-
+<p align="center">I'm Antonio Inacio, I'm currently studying Computer Science at the Federal University of Piauí (UFPI).</p>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
