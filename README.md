@@ -1,6 +1,6 @@
 # Antonio Inácio
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-55b56a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-PERFIL-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-55b56a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/)
 [![Instagram](https://img.shields.io/badge/Instagram-55b56a?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/attinacio)
 [![Email](https://img.shields.io/badge/Email-55b56a?style=flat-square&logo=gmail&logoColor=white)](mailto:antonio.inacio@ufpi.edu.br)
 
